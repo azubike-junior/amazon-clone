@@ -1,0 +1,1 @@
+export const menus = ["Today's Deal", 'Customers Service', 'Gift Cards', 'Sell', 'Registry']
